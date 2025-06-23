@@ -1,9 +1,16 @@
-# 🧩 Sistema de Personalización CIE
+# 📘 Documentación Técnica del Sistema de Personalización CIE
 
-Bienvenido a la documentación oficial del sistema avanzado de personalización del CIE.
+Bienvenido a la documentación técnica del sistema modular CIE. Aquí encontrarás la descripción de cada componente, arquitectura, pruebas y despliegue.
 
-## Contenido
-- [Estructura del Proyecto](estructura.md)
-- [Configuración y Personalización](personalizacion.md)
-- [Pruebas Automatizadas](pruebas.md)
-- [Despliegue con Docker](docker.md)
+---
+
+## Índice 📂
+
+- 🧱 [Estructura del Proyecto](estructura.md)
+- 🎨 [Personalización de la Interfaz](personalizacion.md)
+- 🧪 [Pruebas con Vitest/Jest](pruebas.md)
+- 🐳 [Despliegue con Docker y Docker Compose](docker.md)
+
+---
+
+> Esta documentación es parte del repositorio [CodigoCIE](https://github.com/Ecosistema-CIE/CodigoCIE).
